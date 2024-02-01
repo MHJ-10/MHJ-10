@@ -10,8 +10,19 @@
   <p>⚽ I often try to exercise and watching sports matches, especially football, is one of my favorite pastimes.</p>
   <p>☘ Also, I attach great importance to healthy eating in my lifestyle.</p>
 </div>
-
-
+<hr />
+<div id="skills-container">
+  <h3>My Skills</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100" height="100" />    
+</div>
 
 <!--
 **MHJ-10/MHJ-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
