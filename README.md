@@ -1,4 +1,6 @@
-![image](https://github.com/MHJ-10/MHJ-10/assets/113971487/01d4a8a4-dbba-45ee-96f6-e9b316fcead0)
+![image](https://github.com/MHJ-10/MHJ-10/assets/113971487/01d4a8a4-dbba-45ee-96f6-e9b316fcead0
+<br />
+<h3>My Bio</h3>
 <p>🙎‍♂️ My name is Mohammad Hossein Jafari.</p>
 <p>👨‍🎓 I am computer engineering student.</p>
 <p>💻 I am a frontend developer who loves Facing various challenges in programming and learning new technologies.</p>
