@@ -1,11 +1,15 @@
-![image](https://github.com/MHJ-10/MHJ-10/assets/113971487/01d4a8a4-dbba-45ee-96f6-e9b316fcead0
-<br />
-<h3>My Bio</h3>
-<p>🙎‍♂️ My name is Mohammad Hossein Jafari.</p>
-<p>👨‍🎓 I am computer engineering student.</p>
-<p>💻 I am a frontend developer who loves Facing various challenges in programming and learning new technologies.</p>
-<p>⚽ I often try to exercise and watching sports matches, especially football, is one of my favorite pastimes.</p>
-<p>☘ Also, I attach great importance to healthy eating in my lifestyle.</p>
+<div>
+  <img src="https://github.com/MHJ-10/MHJ-10/assets/113971487/c75170e2-a953-4f94-9db2-0f7f40ffa1b4" alt="github-banner" />
+</div>
+
+<div>
+  <h3>My Bio</h3>
+  <p>🙎‍♂️ My name is Mohammad Hossein Jafari.</p>
+  <p>👨‍🎓 I am computer engineering student.</p>
+  <p>💻 I am a frontend developer who loves Facing various challenges in programming and learning new technologies.</p>
+  <p>⚽ I often try to exercise and watching sports matches, especially football, is one of my favorite pastimes.</p>
+  <p>☘ Also, I attach great importance to healthy eating in my lifestyle.</p>
+</div>
 
 
 
