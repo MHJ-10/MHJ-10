@@ -27,13 +27,13 @@
 <div>
   <h3>How to Connect with me</h3>
   <a href="https://www.linkedin.com/in/mhj10/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="100" />    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />    
   </a>
    <a href="https://github.com/MHJ-10">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" />    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />    
   </a
    <a href="https://stackoverflow.com/users/20019091/mohammad-hossein-jafari">
-    <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" width="100" height="100" />    
+    <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" width="50" height="50" />    
   </a>
 </div>
 
