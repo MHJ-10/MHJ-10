@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://github.com/MHJ-10/MHJ-10/assets/113971487/7f30604b-8bdb-4844-a79c-8619f734df50)
+![image](https://github.com/MHJ-10/MHJ-10/assets/113971487/01d4a8a4-dbba-45ee-96f6-e9b316fcead0)
+
 
 
 <!--
