@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />    
   </a
   <a href="https://stackoverflow.com/users/20019091/mohammad-hossein-jafari/">
-    <img src="https://github.com/user-attachments/assets/5e574448-2d47-41dc-be66-2ba6512eb94f" width="50" height="50" />    
+    <img src="https://github.com/user-attachments/assets/5e574448-2d47-41dc-be66-2ba6512eb94f" width="120" height="50" />    
   </a>
 </div>
 
